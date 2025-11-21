@@ -34,14 +34,6 @@
 
 Sistem penjadwalan mata kuliah yang menggunakan **Algoritma Genetika** untuk menghasilkan jadwal optimal tanpa bentrok waktu dosen, ruangan, dan mahasiswa. Sistem ini dilengkapi dengan **AI Explanation** yang menjelaskan setiap keputusan penjadwalan dan fitur **Auto-Fix** untuk memperbaiki konflik secara otomatis.
 
-### 🎨 Screenshot
-
-```
-[Tambahkan screenshot aplikasi di sini]
-```
-
----
-
 ## ✨ Fitur Utama
 
 ### 🤖 Intelligent Scheduling
